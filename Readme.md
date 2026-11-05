@@ -286,6 +286,7 @@ PayVault.ai isn't just a payment tracker - it’s a **smart digital assistant** 
 
 This is financial management for the real world - **resilient, intelligent, and automated.**
 
+
 ## Contributors
 
 <a href = "https://github.com/AashishKumarSingh1/PayVault.ai/graphs/contributors">
