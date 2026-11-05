@@ -1,6 +1,4 @@
 # 🛡️💸 PayVault.ai - Your Smart Secure and Intelligent Payment Locker  
-## Submission for **Amazon HackOn Hackathon 2025**
-
 ---
 
 ## 📚 Table of Contents
